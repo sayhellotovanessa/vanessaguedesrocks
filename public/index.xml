@@ -2,39 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanessa Guedes</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://vanessaguedesrocks.herokuapp.com/</link>
     <description>Recent content on Vanessa Guedes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 May 2017 12:05:18 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2017 18:51:50 +0200</lastBuildDate>
+    
+	<atom:link href="https://vanessaguedesrocks.herokuapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>welcome</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/welcome/</link>
-      <pubDate>Tue, 02 May 2017 12:05:18 +0200</pubDate>
+      <title>About</title>
+      <link>https://vanessaguedesrocks.herokuapp.com/about/</link>
+      <pubDate>Mon, 01 May 2017 18:51:50 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/welcome/</guid>
-      <description>&lt;p&gt;lalalalalal lalalalalaal&lt;/p&gt;
-</description>
+      <guid>https://vanessaguedesrocks.herokuapp.com/about/</guid>
+      <description>Hello. I am Vanessa Guedes, the author of the Lagom Tales serie and some other short pieces. I write some fiction tales and book reviews in this website. Feel free to contact me through the links in the end of this page.
+I usually work strictly with short stories but I am venturing into a novel now. Science fiction and horror are my favorite genres and I try to stick to it.</description>
     </item>
     
     <item>
-      <title>Über</title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
-      <pubDate>Thu, 02 Mar 2017 11:59:21 -0500</pubDate>
+      <title>Ana wakes up</title>
+      <link>https://vanessaguedesrocks.herokuapp.com/post/anawakesup/</link>
+      <pubDate>Wed, 01 Mar 2017 18:51:50 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
-      <description>&lt;p&gt;
-&lt;figure class=&#34;image main&#34;&gt;
+      <guid>https://vanessaguedesrocks.herokuapp.com/post/anawakesup/</guid>
+      <description>&amp;ldquo;Don&amp;rsquo;t look in the mirror before three days or you&amp;rsquo;ll see the devil&amp;rdquo;.
+She looked.
+She saw just her own face stained with dried brown blood, her ratty hair and sunken eyes with dark circles. Looking frightful as the devil himself, she thought. She took a hot shower, got rid of the cakey brown goop, the strong scent of lavender and the laurel leaves still clinging to her body. Her hair still had a leftover hint of rue, but the scent of the deodorant somehow masked it.</description>
+    </item>
     
-        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/pic03.jpg&#34; /&gt;
+    <item>
+      <title>Comics</title>
+      <link>https://vanessaguedesrocks.herokuapp.com/post/comics/</link>
+      <pubDate>Mon, 02 Jan 2017 12:05:25 +0200</pubDate>
+      
+      <guid>https://vanessaguedesrocks.herokuapp.com/post/comics/</guid>
+      <description>there are one million clark kents in stockholm. they take the train, drive their cars or ride their bikes in the streets every morning. while hiding their true self behind a large cape (which they say it is to protect them from the snow) they pay attention to their phone screens or listen to some music while look around. never in each other’s faces, eyes, or forehead. they fear to find some revealing emotion.</description>
+    </item>
     
+    <item>
+      <title>Spiritual Highlights</title>
+      <link>https://vanessaguedesrocks.herokuapp.com/post/spiritualhighlights/</link>
+      <pubDate>Mon, 02 Jan 2017 12:05:19 +0200</pubDate>
+      
+      <guid>https://vanessaguedesrocks.herokuapp.com/post/spiritualhighlights/</guid>
+      <description>there is a light that never goes out after 3pm. in Sweden, during the winter. it goes in a spiritual retreat after the first cool wind blow and it drives people crazy when they see the light for a couple of minutes once a week — that moment when everybody looks like plants doing photosynthesis in their heavy dark coats. they try to reach the light to get some wisdom: dear light, tell us how to live humbly and be fulfilled in life.</description>
+    </item>
     
-&lt;/figure&gt;
-
-Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.&lt;/p&gt;
-</description>
+    <item>
+      <title>Civilization</title>
+      <link>https://vanessaguedesrocks.herokuapp.com/post/civilization/</link>
+      <pubDate>Sun, 01 Jan 2017 18:51:50 +0200</pubDate>
+      
+      <guid>https://vanessaguedesrocks.herokuapp.com/post/civilization/</guid>
+      <description>In the old times people threw heavy stones with catapults to invade new territories. Putting cities down. As we can do with heavy hearts, maybe, launch them across the ocean and strike other lands. I wish I could throw my heart away sometimes. We could even end up replacing old hearts there with our own. So our chests could receive new hearts, maybe from further countries, where electric energy is unstable.</description>
     </item>
     
   </channel>

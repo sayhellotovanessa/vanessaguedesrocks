@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2017-05-01T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/anawakesup/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/comics/</loc>
+    <lastmod>2017-01-02T12:05:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/spiritualhighlights/</loc>
+    <lastmod>2017-01-02T12:05:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/civilization/</loc>
+    <lastmod>2017-01-01T18:51:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/fiction/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/horror/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/lagom-tales/</loc>
+    <lastmod>2017-01-02T12:05:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/short-stories/</loc>
+    <lastmod>2017-01-02T12:05:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/tales/</loc>
+    <lastmod>2017-03-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-05-01T18:51:50+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
