@@ -1,0 +1,35 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Vanessa Guedes"
+theme = "bootstrap"
+
+
+[params]
+  DateForm = "Mon, Jan 2, 2006"
+  Description = "Fantastic beast, writer wannabe and keyword hunter"
+  Author = "Vanessa Guedes"
+  email = "sayhellotovanessa@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
+  postSummariesFrontPage = 5 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = true #set to false to exclude read time from header of post
+
+[[params.social]]
+  title = "twitter"
+  url = "https://twitter.com/nessoila"
+[[params.social]]
+    title = "instagram"
+    url = "https://instagram.com/sayhellotovanessa"
+
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = -300
+[[menu.main]]
+  name = "Archives"
+  url = "/post/"
+  weight = -250
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = -100

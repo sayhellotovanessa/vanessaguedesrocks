@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanessa Guedes</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on Vanessa Guedes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 May 2017 12:05:18 +0200</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/welcome/</link>
+      <pubDate>Tue, 02 May 2017 12:05:18 +0200</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/welcome/</guid>
+      <description>&lt;p&gt;lalalalalal lalalalalaal&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Über</title>
+      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <pubDate>Thu, 02 Mar 2017 11:59:21 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <description>&lt;p&gt;
+&lt;figure class=&#34;image main&#34;&gt;
+    
+        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/images/pic03.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
