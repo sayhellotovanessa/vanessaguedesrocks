@@ -2,6 +2,7 @@ baseurl = "https://vanessaguedesrocks.herokuapp.com"
 languageCode = "en-us"
 title = "Vanessa Guedes"
 theme = "bootstrap"
+publishDir = "docs"
 
 
 [params]
